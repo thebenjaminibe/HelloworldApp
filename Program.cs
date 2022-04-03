@@ -6,10 +6,10 @@ namespace HelloworldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World from Wellahealth school!");
-            Console.WriteLine("Welcome to week 1 of lectures");
+            Console.WriteLine("Hello benjamin, i am in backend track of Wella Schools!");
+            Console.WriteLine("I am learning backend development to develop solutions to the problems of medicine!");
 
         }
     }
 }
+
